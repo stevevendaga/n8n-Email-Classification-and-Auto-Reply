@@ -35,12 +35,6 @@ This n8n workflow automates email processing by classifying incoming emails as s
 - **Gmail OAuth2**: For email integration
 - **OpenAI API**: For AI-powered analysis and response generation
 
-### Sponsorship Terms
-The workflow includes predefined terms:
-- Standalone Video: €800-€1,300
-- Integrated Mention: €600
-- Channel stats: 15,000+ subscribers, 3,000-10,000 average views
-
 ## How It Works
 1. New email arrives → Gmail trigger activates
 2. Email content is formatted and passed to AI agent
